@@ -6,7 +6,7 @@
 
 ## Objectives
 - Part 1: Preparing the Virtual Environment
-- Part 2: Firewall and IDS Logs
+- Part 2: Firewall and IDS Logs Monitoring
 - Part 3: Terminate and Clear Mininet Process
   
 ## Background / Scenario
